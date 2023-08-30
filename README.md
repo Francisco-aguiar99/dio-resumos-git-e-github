@@ -1,1 +1,12 @@
-p3otrkgoqeirjmjttgo[iejmjy[okmqorgkmqo[ekrgymnh[4q0pityjmh45o0pkmjyh54otm6jyh-o49t6kuyh-569kuhj-5´60ok,uh-=´p0h56kj=-]´045k,t6uhj-omk,-oúkl,
+# DIO Resumos GIT e Github
+Respositório para armazenar resumos sobre Git e Github do curso Versionamento de código com Git e Github 
+
+## Documentação
+- [Documentação Git](https://git-scb.com/doc)
+ - [Documentação Github](https://docs.github.com/)
+
+ ## Resumom das Aulas
+ 
+ Aulas 01 [Resumo]()
+ 
+Aulas 02 [Resumo]()
